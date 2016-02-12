@@ -1,2 +1,2 @@
-# nfq_practical_task
+# Vaidotas Poškus
 NFQ praktinė užduotis
